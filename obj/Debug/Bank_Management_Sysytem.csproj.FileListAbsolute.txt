@@ -1,0 +1,11 @@
+D:\C#\Bank_Management_Sysytem\bin\Debug\Bank_Management_Sysytem.exe.config
+D:\C#\Bank_Management_Sysytem\bin\Debug\Bank_Management_Sysytem.exe
+D:\C#\Bank_Management_Sysytem\bin\Debug\Bank_Management_Sysytem.pdb
+D:\C#\Bank_Management_Sysytem\obj\Debug\Bank_Management_Sysytem.csproj.AssemblyReference.cache
+D:\C#\Bank_Management_Sysytem\obj\Debug\Bank_Management_Sysytem.login_form.resources
+D:\C#\Bank_Management_Sysytem\obj\Debug\Bank_Management_Sysytem.Properties.Resources.resources
+D:\C#\Bank_Management_Sysytem\obj\Debug\Bank_Management_Sysytem.csproj.GenerateResource.cache
+D:\C#\Bank_Management_Sysytem\obj\Debug\Bank_Management_Sysytem.csproj.CoreCompileInputs.cache
+D:\C#\Bank_Management_Sysytem\obj\Debug\Bank_Management_Sysytem.exe
+D:\C#\Bank_Management_Sysytem\obj\Debug\Bank_Management_Sysytem.pdb
+D:\C#\Bank_Management_Sysytem\obj\Debug\Bank_Management_Sysytem.Manager_form.resources
